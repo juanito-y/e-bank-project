@@ -1,4 +1,4 @@
-# E-Bank Project – Partie 1 : Micro-services backend
+# E-Bank Project Partie 1 : Micro-services backend
 
 ## 1. Objectif
 
