@@ -67,5 +67,4 @@ Les services ont été testés avec Postman et Swagger-UI.
 La partie 1 met en place une base micro-services complète : services métier, communication déclarative avec OpenFeign, résilience avec Resilience4J, découverte de services avec Eureka et point d'entrée unique avec la gateway.
 
 ## Auteur
-
-juanito-y
+yasmine ghissassi
